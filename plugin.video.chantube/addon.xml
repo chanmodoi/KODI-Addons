@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.chantube" version="1.0.0" name="Tap hop kenh Youtube" provider-name="chanmodoi">	
+<addon id="plugin.video.chantube" version="1.0.0" name="Kenh Youtube" provider-name="chanmodoi">	
 	<requires>		
 		<import addon="xbmc.python" version="2.1.0" />	
 		<import addon="plugin.video.youtube" version="5.1.8"/>	
