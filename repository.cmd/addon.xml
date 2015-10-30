@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon 
+	id="repository.chanmodoi" 
+	version="1.0.0" 
+	name="Chan Mo Doi " 
+	provider-name="Chan Mo Doi">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository"
+		name="Chan Mo Doi">
+		<info compressed="true">https://raw.githubusercontent.com/chanmodoi/KODI-Addons/master/addons.xml</info>		
+		<datadir zip="true">https://github.com/chanmodoi/KODI-Addons/raw/master/ZIPS/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<disclaimer lang="en"></disclaimer>
+		<email></email>
+		<platform>all</platform>
+	</extension>
+</addon>
